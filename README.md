@@ -1,2 +1,2 @@
 # 001-HTMLBasicStructure
-This is a test repository for educational purposes 
+This repository is to learn how .html works (basic html) 
